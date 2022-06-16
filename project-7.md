@@ -18,7 +18,6 @@ Now we create mount points on /mnt directory for the logical volumes.
 
 ![alt text](Images/volume.PNG)
 
-![alt text](Images/.PNG)
 
 Now we have created and mounted our logical and physical volumes.
 
@@ -141,7 +140,7 @@ Now fork the tooling source code from Darey.io Github Account
  We have just implemented a web solution for a DevOps team using LAMP stack with remote Database and NFS servers.
 
  # THIS IS THE END OF PROJECT 7
- 
+
 
 
 
