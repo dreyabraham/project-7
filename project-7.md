@@ -133,9 +133,9 @@ Now fork the tooling source code from Darey.io Github Account
 
  Open the website in your browser and make sure you can login into the website with myuser user.
 
- ![alt text](Images/2.PNG)
+ ![alt text](Images/screen.PNG)
 
-![alt text](Images/1.PNG)
+![alt text](Images/shot.PNG)
 
  We have just implemented a web solution for a DevOps team using LAMP stack with remote Database and NFS servers.
 
